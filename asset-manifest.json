@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/bookyourbook/static/css/main.98a99595.css",
-    "main.js": "/bookyourbook/static/js/main.9eb2402a.js",
+    "main.css": "/bookyourbook/static/css/main.8aa1d86b.css",
+    "main.js": "/bookyourbook/static/js/main.a062dbb8.js",
     "static/js/787.87e656bc.chunk.js": "/bookyourbook/static/js/787.87e656bc.chunk.js",
     "static/media/actionAdventure.jpg": "/bookyourbook/static/media/actionAdventure.6f9f6149892d47760582.jpg",
     "static/media/body1-book-unscreen.gif": "/bookyourbook/static/media/body1-book-unscreen.19dffbf0068d75c6006e.gif",
+    "static/media/img3.jpg": "/bookyourbook/static/media/img3.6aaaa47325cc0cfbdf2d.jpg",
     "static/media/Comics.jpg": "/bookyourbook/static/media/Comics.b6408371d75d53ca12c9.jpg",
     "static/media/Crime.jpg": "/bookyourbook/static/media/Crime.c4318f2b49862b32ad89.jpg",
     "static/media/body1-icon.png": "/bookyourbook/static/media/body1-icon.4c01950217320586dc4a.png",
@@ -15,7 +16,6 @@
     "static/media/sports.jpg": "/bookyourbook/static/media/sports.5fb70d3a6e45c09edf49.jpg",
     "static/media/Enginnering.jpg": "/bookyourbook/static/media/Enginnering.6a7832e3450b6141b7f4.jpg",
     "static/media/img6.jpg": "/bookyourbook/static/media/img6.fe9b3aef1ba1eba42ecc.jpg",
-    "static/media/img3.jpg": "/bookyourbook/static/media/img3.6aaaa47325cc0cfbdf2d.jpg",
     "static/media/img11.jpg": "/bookyourbook/static/media/img11.346b5e028e4f02d368c4.jpg",
     "static/media/img12.jpg": "/bookyourbook/static/media/img12.63a43264c410465d9562.jpg",
     "static/media/img13.jpg": "/bookyourbook/static/media/img13.b49b74b342b1576227e2.jpg",
@@ -31,6 +31,7 @@
     "static/media/img8.jpg": "/bookyourbook/static/media/img8.3d060e5f7c64a25e66f1.jpg",
     "static/media/img19.jpg": "/bookyourbook/static/media/img19.a09923deb0a6b243db20.jpg",
     "static/media/img25.jpg": "/bookyourbook/static/media/img25.e21f86d1a792698aa903.jpg",
+    "static/media/home-preview.jpg": "/bookyourbook/static/media/home-preview.5a3b1dc49db9be0b9623.jpg",
     "static/media/img16.jpg": "/bookyourbook/static/media/img16.2ee81ae999292ae7da7c.jpg",
     "static/media/img1.jpg": "/bookyourbook/static/media/img1.d67d178e224f6a89dfc7.jpg",
     "static/media/img17.jpg": "/bookyourbook/static/media/img17.31d355833a3fbdb46451.jpg",
@@ -55,12 +56,12 @@
     "static/media/img4.jpeg": "/bookyourbook/static/media/img4.7cd1c0063eb6efeefc04.jpeg",
     "static/media/theindianmetropolis.jpg": "/bookyourbook/static/media/theindianmetropolis.86d380a97259dc6a9c7d.jpg",
     "index.html": "/bookyourbook/index.html",
-    "main.98a99595.css.map": "/bookyourbook/static/css/main.98a99595.css.map",
-    "main.9eb2402a.js.map": "/bookyourbook/static/js/main.9eb2402a.js.map",
+    "main.8aa1d86b.css.map": "/bookyourbook/static/css/main.8aa1d86b.css.map",
+    "main.a062dbb8.js.map": "/bookyourbook/static/js/main.a062dbb8.js.map",
     "787.87e656bc.chunk.js.map": "/bookyourbook/static/js/787.87e656bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98a99595.css",
-    "static/js/main.9eb2402a.js"
+    "static/css/main.8aa1d86b.css",
+    "static/js/main.a062dbb8.js"
   ]
 }

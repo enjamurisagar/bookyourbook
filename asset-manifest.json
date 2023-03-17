@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RiseMyBooks/static/css/main.922dda14.css",
-    "main.js": "/RiseMyBooks/static/js/main.f5ed955f.js",
-    "static/js/787.87e656bc.chunk.js": "/RiseMyBooks/static/js/787.87e656bc.chunk.js",
+    "main.js": "/RiseMyBooks/static/js/main.9259c75e.js",
+    "static/js/787.b179998b.chunk.js": "/RiseMyBooks/static/js/787.b179998b.chunk.js",
     "static/media/actionAdventure.jpg": "/RiseMyBooks/static/media/actionAdventure.6f9f6149892d47760582.jpg",
     "static/media/body1-book-unscreen.gif": "/RiseMyBooks/static/media/body1-book-unscreen.19dffbf0068d75c6006e.gif",
     "static/media/img3.jpg": "/RiseMyBooks/static/media/img3.6aaaa47325cc0cfbdf2d.jpg",
@@ -57,11 +57,11 @@
     "static/media/theindianmetropolis.jpg": "/RiseMyBooks/static/media/theindianmetropolis.86d380a97259dc6a9c7d.jpg",
     "index.html": "/RiseMyBooks/index.html",
     "main.922dda14.css.map": "/RiseMyBooks/static/css/main.922dda14.css.map",
-    "main.f5ed955f.js.map": "/RiseMyBooks/static/js/main.f5ed955f.js.map",
-    "787.87e656bc.chunk.js.map": "/RiseMyBooks/static/js/787.87e656bc.chunk.js.map"
+    "main.9259c75e.js.map": "/RiseMyBooks/static/js/main.9259c75e.js.map",
+    "787.b179998b.chunk.js.map": "/RiseMyBooks/static/js/787.b179998b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.922dda14.css",
-    "static/js/main.f5ed955f.js"
+    "static/js/main.9259c75e.js"
   ]
 }
